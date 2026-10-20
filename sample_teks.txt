@@ -1,0 +1,6 @@
+Python adalah bahasa pemrograman bertujuan umum yang ditafsirkan tingkat tinggi.
+Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991.
+Filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan.
+Konstruksi bahasanya serta pendekatan berorientasi objeknya bertujuan untuk membantu pemrogram menulis kode yang jelas dan logis untuk proyek skala kecil dan besar.
+Python dinamis dan mendukung berbagai paradigma pemrograman, termasuk pemrograman terstruktur, berorientasi objek, dan fungsional.
+Python sering digambarkan sebagai bahasa yang dilengkapi baterai karena pustaka standarnya yang komprehensif.
